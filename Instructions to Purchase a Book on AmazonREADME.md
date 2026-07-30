@@ -1,4 +1,4 @@
-# Chapter 1. Purchase a Book on Amazon
+# Purchase a Book on Amazon
 
 This topic describes how to purchase a book on the Amazon app.
 
